@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+#jobtitle {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size:medium;
+}
+
+.logo {
+    width: 90px;
+    height: 90px;
+    margin-top: 20px;
+}
+
+#headerContainer {
+    margin-top: 20px;
+}
+
+.appImageContainer {
+    width: 100%;
+    padding-top: 75%;
+    position: relative;
+}
+
+.appImage {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+a {
+    word-wrap: break-word;
+}
