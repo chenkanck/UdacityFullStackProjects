@@ -2,8 +2,8 @@
     box-sizing: border-box;
 }
 
-#jobtitle {
-    font-family: 'Open Sans Condensed', sans-serif;
+#job-title {
+    font-family: "Open Sans Condensed", sans-serif;
     font-size:medium;
 }
 
@@ -13,17 +13,17 @@
     margin-top: 20px;
 }
 
-#headerContainer {
+#header-container {
     margin-top: 20px;
 }
 
-.appImageContainer {
+.app-image-container {
     width: 100%;
     padding-top: 75%;
     position: relative;
 }
 
-.appImage {
+.app-image {
     position: absolute;
     top: 0;
     left: 0;
