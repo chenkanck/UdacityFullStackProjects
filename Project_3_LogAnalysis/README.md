@@ -1,5 +1,5 @@
 ## How to run code
-1. log in to datebase using `psql -d news`
+1. setup and log in to datebase using `psql -d news -f newsdata.sql`
 2. run commands to create views
 3. using `\q` to exit database
 4. run `python AnylyzeLog.py`
