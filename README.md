@@ -13,3 +13,6 @@ How to run application:
   1. download the repo
   2. go into repo folder, and open `Project_2_Portfolio/index.html`
   
+## Project 3: Log Analysis
+
+Please read README.md in Project_3_LogAnalysis folder
